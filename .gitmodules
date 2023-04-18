@@ -1,0 +1,6 @@
+[submodule "local-code"]
+	path = local-code
+	url = https://github.com/wblksheep/local-code.git
+[submodule "remote-code"]
+	path = remote-code
+	url = https://github.com/wblksheep/remote-code.git
